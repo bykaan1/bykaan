@@ -1,0 +1,5 @@
+name = "bykaan-hairstudio.de"
+compatibility_date = "2026-09-27"
+
+[assets]
+directory = "."
